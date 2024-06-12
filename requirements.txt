@@ -1,0 +1,8 @@
+numpy
+scipy
+biosppy
+torch
+fast_pytorch_kmeans
+tqdm
+matplotlib
+sklearn
